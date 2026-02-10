@@ -1,0 +1,3 @@
+Here is where we have a Vanilla GAN implementation with an evaluation of it's performance using a classifier,
+UMAP, and a Downstream ML, where we use original data to train a classifier and assign labels to the synthetic data,
+and then, we use the synthetic data to train a classifier and evaluate performance on the Real data.
